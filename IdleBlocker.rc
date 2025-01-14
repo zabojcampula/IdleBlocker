@@ -1,0 +1,2 @@
+#include "IdleBlocker.h"
+IDI_MYICON ICON "IdleBlocker.ico"
